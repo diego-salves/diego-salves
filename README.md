@@ -29,6 +29,6 @@
 </div>
 
 ## In my recent public projects I've been using: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-salves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-salves&layout=compact)](https://github.com/diego-salves/diego-salves)
 
 ### I'm interested in learn soon about Blockchain Development, and currently studying TDD, looking foward to apply it in one of my projects.
