@@ -4,7 +4,7 @@
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/diegodsa/)
 [![Leetcode](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/13722827/diego-santos)
 
-![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diego-salves&show_icons=true&theme=tokyonight&hide=contribs,stars)
+![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diego-salves&show_icons=true&theme=codeSTACKr&hide=contribs,stars)
 
 ## Front-end technologies I know/work with:
 
