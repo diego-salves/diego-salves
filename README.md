@@ -31,4 +31,4 @@
 ## In my recent public projects I've been using: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-salves&layout=compact)](https://github.com/diego-salves/diego-salves)
 
-### I'm interested in learn about Blockchain Development, currently studying TDD, looking foward to apply it in one of my projects. I speak natively portuguese and fluent english and spanish. Feel free to reach me on Linkedin or email to discuss about technology.
+### I'm interested in learn about Blockchain Development, currently studying TDD, looking foward to apply it in one of my projects.
