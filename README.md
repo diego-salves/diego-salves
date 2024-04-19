@@ -30,4 +30,4 @@
 ## In my recent public projects I've been using: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-salves&layout=compact)](https://github.com/diego-salves/diego-salves)
 
-### I'm interested in learn about Blockchain Development, currently studying TDD, looking foward to apply it in one of my projects.
+### Currently diving into topics like Test-Driven Development (TDD), Domain-Driven Design (DDD), and Hexagonal Architecture to further enhance my skills.
